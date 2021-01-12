@@ -1,0 +1,5 @@
+#!C:\Users\Oussama\Desktop\auth\venv\Scripts\python.exe
+
+import newrelic.admin
+
+newrelic.admin.main()
